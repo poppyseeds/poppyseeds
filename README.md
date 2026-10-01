@@ -345,11 +345,11 @@ My goal is to understand the **complete engineering lifecycle**, not just the ML
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/poppypseeds/poppypseeds/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/poppyseeds/poppyseeds/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
